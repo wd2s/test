@@ -6,7 +6,7 @@ def test_test():
 
 
 def test_x1():
-    assert ab.a(-10) == None
+    assert ab.a(-1) == -1
 
 
 def test_x2():
