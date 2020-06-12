@@ -1,3 +1,3 @@
 def a(x):
-    if 1 > 0:
+    if x > 0:
         return -10
